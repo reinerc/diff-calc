@@ -1,20 +1,20 @@
-#diff-calc
+# diff-calc
 
 Ein Taschenrecher, der auch symbolische Ableitungen
 berechnen kann.
 
-##Entstehung
+## Entstehung
 
 Das Programm wurde in der letzten Woche eines vierwöchigen
 C++-Kurses geschrieben.
 
-##Features
+## Features
 
 - Auswerten einer Funktion
 - symbolische Ableitungen
 - plotten eines Funktionsgraphen im Textmodus
 
-##Bugs
+## Bugs
 
 Die Eingabe wird leider nur in umgekehrter polnische Notation
 akzeptiert.
